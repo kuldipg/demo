@@ -1,40 +1,34 @@
 {
-  "events": {
-    "pagination": {
-      "object_count": 3,
-      "page_size": 10
+  "events": [
+    {
+      "id": 1,
+      "start_date": "2021-02-18T18:00:00",
+      "end_date": "2021-02-25T18:00:00",
+      "name": "Gesa 2020 Virtual Turkey Trot",
+      "description": "Gesa 2020 Virtual Turkey Trot benefiting the American Red Cross. \"Trot\" a 5k or 1-mile walk or run all in support of the American Red Cross.",
+      "url": "https://www.eventbrite.com/e/gesa-2020-virtual-turkey-trot-benefiting-the-american-red-cross-registration-122002120627",
+      "price": "$10-$32",
+      "venue": "Online"
     },
-    "results": [
-      {
-        "id": 1,
-        "start_date": "2021-02-18T18:00:00",
-        "end_date": "2021-02-25T18:00:00",
-        "name": "Gesa 2020 Virtual Turkey Trot",
-        "description": "Gesa 2020 Virtual Turkey Trot benefiting the American Red Cross. \"Trot\" a 5k or 1-mile walk or run all in support of the American Red Cross.",
-        "url": "https://www.eventbrite.com/e/gesa-2020-virtual-turkey-trot-benefiting-the-american-red-cross-registration-122002120627",
-        "price": "$10-$32",
-        "venue": "Online"
-      },
-      {
-        "id": 2,
-        "start_date": "2021-01-18T18:00:00",
-        "end_date": "2021-01-25T18:00:00",
-        "name": "The Dark Art of Pricing: Basics + Beyond",
-        "description": "Learn how to price creative work including editorial, books, advertising campaigns, personal commissions, logos, and more!",
-        "url": "https://www.eventbrite.com/e/the-dark-art-of-pricing-basics-beyond-tickets-127749523263",
-        "price": "$0-$15",
-        "venue": "Online"
-      },
-      {
-        "id": 3,
-        "start_date": "2021-02-18T18:00:00",
-        "end_date": "2021-02-25T18:00:00",
-        "name": "UCL Economics Conference 2020",
-        "description": "We are delighted to announce the The Economist\u2019s Society flagship event, The Economics Conference 2020!",
-        "url": "https://www.eventbrite.co.uk/e/ucl-economics-conference-2020-tickets-123457190781",
-        "price": "Free",
-        "venue": "Online"
-      }
-    ]
-  }
+    {
+      "id": 2,
+      "start_date": "2021-01-18T18:00:00",
+      "end_date": "2021-01-25T18:00:00",
+      "name": "The Dark Art of Pricing: Basics + Beyond",
+      "description": "Learn how to price creative work including editorial, books, advertising campaigns, personal commissions, logos, and more!",
+      "url": "https://www.eventbrite.com/e/the-dark-art-of-pricing-basics-beyond-tickets-127749523263",
+      "price": "$0-$15",
+      "venue": "Online"
+    },
+    {
+      "id": 3,
+      "start_date": "2021-02-18T18:00:00",
+      "end_date": "2021-02-25T18:00:00",
+      "name": "UCL Economics Conference 2020",
+      "description": "We are delighted to announce the The Economist\u2019s Society flagship event, The Economics Conference 2020!",
+      "url": "https://www.eventbrite.co.uk/e/ucl-economics-conference-2020-tickets-123457190781",
+      "price": "Free",
+      "venue": "Online"
+    }
+  ]
 }
